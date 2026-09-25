@@ -81,3 +81,26 @@ The findings can support business teams in:
 The business insights identified from SQL analysis will be presented visually through the Power BI dashboard.
 
 The dashboard will provide category comparisons, sentiment analysis, rating trends, and negative-review insights in an interactive format.
+
+
+## Business Insights Report
+
+A detailed Business Insights report was prepared based on the SQL analysis results.
+
+The report includes:
+
+- Executive summary
+- Overall dataset metrics
+- Category-wise customer satisfaction
+- Sentiment analysis
+- Negative-review analysis
+- Customer pain-point indicators
+- High-impact customer reviews
+- Product-level findings
+- Data-quality validation
+- Consolidated business insights
+- Recommended business actions
+
+Detailed report:
+
+[Business Insights Report](report/Amazon%20Customer%20Feedback%20Intelligence%20-%20Business%20Insights.docx)
